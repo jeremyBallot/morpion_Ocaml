@@ -1,0 +1,1 @@
+le morpion avec une profondeur de 2 et 3 met beaucoup de temps a afficher les resultats du au nombre de calcul réalisé
